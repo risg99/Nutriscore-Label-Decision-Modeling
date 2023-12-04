@@ -1,0 +1,217 @@
+_id,image_url,brands,pnns_groups_2,energy-kj_100g,sugars_100g,salt_100g,saturated-fat_100g,proteins_100g,fiber_100g,fruits-vegetables-nuts-estimate-from-ingredients_100g,sodium_100g,nutrition-score-fr_100g,nutrition_grade_fr,negative_points,positive_points
+3274080005003.0,https://images.openfoodfacts.org/images/products/327/408/000/5003/front_de.871.400.jpg,Cristaline,Waters and flavored waters,0.0,0.0,0.00525,0.0,0.0,0.0,0.0,0.0021,0.0,a,0.0,0.0
+3502110009357.0,https://images.openfoodfacts.org/images/products/350/211/000/9357/front_en.101.400.jpg,"PepsiCo, Pepsi zero",Artificially sweetened beverages,2.0,0.0,0.01,0.0,0.0,0.0,0.0,0.004,1.0,b,1.0,0.0
+5449000133328.0,https://images.openfoodfacts.org/images/products/544/900/013/3328/front_en.226.400.jpg,Coca-Cola,Artificially sweetened beverages,0.9,0.0,0.02,0.0,0.0,0.0,0.0,0.008,1.0,b,1.0,0.0
+90357473.0,https://images.openfoodfacts.org/images/products/90357473/front_fr.85.400.jpg,Coca-Cola,Artificially sweetened beverages,1.4,0.0,0.02,0.0,0.0,0.0,0.0,0.008,1.0,b,1.0,9.0
+90162800.0,https://images.openfoodfacts.org/images/products/90162800/front_de.51.400.jpg,Red Bull,Artificially sweetened beverages,13.0,0.0,0.1,0.0,0.0,0.0,0.0,0.04,1.0,b,9.0,0.0
+5000112576009.0,https://images.openfoodfacts.org/images/products/500/011/257/6009/front_de.30.400.jpg,Coca-Cola,Artificially sweetened beverages,0.9,0.0,0.2,0.0,0.0,0.0,0.0,0.08,1.0,b,1.0,0.0
+5449000214799.0,https://images.openfoodfacts.org/images/products/544/900/021/4799/front_fr.219.400.jpg,Coca-Cola,Artificially sweetened beverages,1.4,0.0,0.02,0.0,0.0,0.0,0.0,0.008,1.0,b,1.0,0.0
+5449000052926.0,https://images.openfoodfacts.org/images/products/544/900/005/2926/front_fr.97.400.jpg,Fanta,Artificially sweetened beverages,203.0,11.7,0.0,0.0,0.0,0.0,0.0,0.0,15.0,e,4.0,0.0
+4104420186279.0,https://images.openfoodfacts.org/images/products/410/442/018/6279/front_de.73.400.jpg,Alnatura,Plant-based milk substitutes,164.0,5.2,0.13,0.2,0.6,0.5,0.0,0.052,1.0,b,0.0,0.0
+4056489244691.0,https://images.openfoodfacts.org/images/products/405/648/924/4691/front_de.95.400.jpg,"Vemondo, Lidl, Grønvang Food",Plant-based milk substitutes,158.0,4.0,0.12,0.2,0.4,0.6,0.0,0.048,0.0,b,0.0,0.0
+5411188102809.0,https://images.openfoodfacts.org/images/products/541/118/810/2809/front_de.182.400.jpg,Alpro,Plant-based milk substitutes,293.0,7.9,0.15,0.4,3.7,1.0,61.475,0.06,-4.0,a,1.0,5.0
+4056489041313.0,https://images.openfoodfacts.org/images/products/405/648/904/1313/front_de.127.400.jpg,"Vemondo,Milbona",Plant-based milk substitutes,101.0,2.7,0.1,0.1,0.5,0.0,2.3,0.04,0.0,b,1.0,0.0
+5411188112709.0,https://images.openfoodfacts.org/images/products/541/118/811/2709/front_de.425.400.jpg,Alpro,Plant-based milk substitutes,56.0,0.0,0.14,0.1,0.4,0.3,2.3,0.056,0.0,b,0.0,0.0
+7394376616501.0,https://images.openfoodfacts.org/images/products/739/437/661/6501/front_de.160.400.jpg,Oatly!,Plant-based milk substitutes,257.0,3.4,0.1,0.3,1.1,0.8,5.0,0.04,0.0,b,0.0,0.0
+5411188115366.0,https://images.openfoodfacts.org/images/products/541/118/811/5366/front_de.88.400.jpg,Alpro,Plant-based milk substitutes,185.0,2.6,0.1,0.2,0.4,1.9,0.0,0.04,-1.0,a,0.0,1.0
+5411188115472.0,https://images.openfoodfacts.org/images/products/541/118/811/5472/front_de.178.400.jpg,Alpro,Plant-based milk substitutes,163.0,2.5,0.09,0.3,3.0,0.5,24.2,0.036,-1.0,a,0.0,1.0
+20749880.0,https://images.openfoodfacts.org/images/products/20749880/front_de.122.400.jpg,"Vemondo,Lidl,Sojinal",Plant-based milk substitutes,182.0,2.9,0.16,0.3,3.3,0.8,4.9,0.064,-2.0,a,1.0,3.0
+5411188116592.0,https://images.openfoodfacts.org/images/products/541/118/811/6592/front_de.184.400.jpg,Alpro,Plant-based milk substitutes,85.0,1.9,0.13,0.9,0.1,0.1,5.3,0.052,0.0,b,0.0,0.0
+4066447051360.0,https://images.openfoodfacts.org/images/products/406/644/705/1360/front_de.34.400.jpg,dmBio,Plant-based milk substitutes,168.0,5.2,0.13,0.2,0.6,0.5,0.0,0.052,1.0,b,1.0,0.0
+7394376616129.0,https://images.openfoodfacts.org/images/products/739/437/661/6129/front_de.68.400.jpg,Oatly,Plant-based milk substitutes,193.0,4.0,0.1,0.2,1.0,0.8,11.4583333333333,0.04,0.0,b,0.0,0.0
+4000405005217.0,https://images.openfoodfacts.org/images/products/400/040/500/5217/front_de.74.400.jpg,Rügenwalder Mühle,unknown,422.0,0.5,1.6,0.1,18.0,5.7,5.25,0.64,-2.0,a,10.0,5.0
+4056489223252.0,https://images.openfoodfacts.org/images/products/405/648/922/3252/front_de.33.400.jpg,"Vemondo,Lidl",unknown,969.0,6.0,1.55,1.1,4.5,2.8,0.3,0.62,6.0,c,9.0,4.0
+7610227935219.0,https://images.openfoodfacts.org/images/products/761/022/793/5219/front_de.29.400.jpg,The Green Mountain,unknown,608.0,0.5,1.6,0.6,11.0,2.0,0.0,0.64,1.0,b,6.0,9.0
+4000405005415.0,https://images.openfoodfacts.org/images/products/400/040/500/5415/front_de.50.400.jpg,Rügenwalder Mühle,unknown,556.0,1.5,2.7,0.7,6.4,3.2,6.0,1.08,8.0,c,10.0,6.0
+7290010739820.0,https://images.openfoodfacts.org/images/products/729/001/073/9820/front_de.48.400.jpg,"Garden Gourmet,Nestlé",unknown,937.0,2.8,1.4,1.7,14.0,5.3,42.325,0.56,-2.0,a,3.0,10.0
+4260380661260.0,https://images.openfoodfacts.org/images/products/426/038/066/1260/front_de.63.400.jpg,Like Meat,unknown,544.0,0.5,1.6,0.5,18.0,6.2,0.0,0.64,-2.0,a,8.0,7.0
+3033710065967.0,https://images.openfoodfacts.org/images/products/303/371/006/5967/front_de.322.400.jpg,"Nestlé,Nesquik",unknown,1634.0,75.1,0.41,1.6,5.1,7.7,0.0,0.164,1.0,b,3.0,2.0
+4000405004548.0,https://images.openfoodfacts.org/images/products/400/040/500/4548/front_de.60.400.jpg,Rügenwälder Mühle,unknown,748.0,1.5,2.4,1.2,8.2,3.0,0.0,0.96,10.0,c,9.0,10.0
+4260322211362.0,https://images.openfoodfacts.org/images/products/426/032/221/1362/front_de.17.400.jpg,Greenforce,unknown,972.0,1.5,2.2,4.0,13.0,6.0,30.1470588235294,0.88,9.0,c,10.0,9.0
+4000405001752.0,https://images.openfoodfacts.org/images/products/400/040/500/1752/front_de.34.400.jpg,Rügenwalder Mühle,unknown,726.0,0.6,1.9,1.0,8.2,3.8,34.8214285714286,0.76,1.0,b,8.0,5.0
+4000405004982.0,https://images.openfoodfacts.org/images/products/400/040/500/4982/front_de.36.400.jpg,Rügenwalder Mühle,unknown,460.0,2.0,2.2,0.7,2.2,6.7,0.0,0.88,4.0,c,11.0,0.0
+4000405004470.0,https://images.openfoodfacts.org/images/products/400/040/500/4470/front_de.36.400.jpg,Rügenwalder,unknown,590.0,1.4,2.3,1.0,2.2,6.3,4.4,0.92,6.0,c,11.0,0.0
+4056489028109.0,https://images.openfoodfacts.org/images/products/405/648/902/8109/front_de.170.400.jpg,solevita,Fruit juices,142.0,7.6,0.01,0.1,0.5,0.0,75.0,0.004,7.0,d,11.0,4.0
+20019907.0,https://images.openfoodfacts.org/images/products/20019907/front_de.173.400.jpg,Solevita,Fruit juices,117.0,2.2,0.01,0.1,0.4,0.5,99.88,0.004,-4.0,b,6.0,10.0
+4029764001807.0,https://images.openfoodfacts.org/images/products/402/976/400/1807/front_de.171.400.jpg,Club Mate,Sweetened beverages,84.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,d,1.0,0.0
+3229820787985.0,https://images.openfoodfacts.org/images/products/322/982/078/7985/front_fr.85.400.jpg,Bjorg,Unsweetened beverages,760.0,1.6,0.08,15.0,1.2,1.1,55.0,0.032,19.0,e,0.0,0.0
+3272770015653.0,https://images.openfoodfacts.org/images/products/327/277/001/5653/front_de.33.400.jpg,Bresso,Salty and fatty products,939.0,1.1,1.1,1.7,4.6,4.0,16.0,0.44,1.0,b,6.0,1.0
+4000339035229.0,https://images.openfoodfacts.org/images/products/400/033/903/5229/front_en.52.400.jpg,"Mondelez,Philadelphia",Salty and fatty products,964.0,4.3,0.75,14.0,5.4,0.2,0.0,0.3,12.0,d,7.0,6.0
+7622300441937.0,https://images.openfoodfacts.org/images/products/762/230/044/1937/front_en.130.400.jpg,Kraft,Salty and fatty products,1027.0,1.3,0.75,14.0,5.4,0.2,0.0,0.3,13.0,d,3.0,5.0
+20082857.0,https://images.openfoodfacts.org/images/products/20082857/front_de.64.400.jpg,Milbona,Salty and fatty products,1033.0,2.7,0.78,16.1,7.4,0.0,0.0,0.312,12.0,d,0.0,5.0
+4000405002704.0,https://images.openfoodfacts.org/images/products/400/040/500/2704/front_de.31.400.jpg,Rügenwalder Mühle,Salty and fatty products,923.0,4.1,1.6,1.7,0.6,3.3,38.61875,0.64,7.0,c,11.0,0.0
+20195595.0,https://images.openfoodfacts.org/images/products/20195595/front_de.150.400.jpg,Milbona,Cheese,614.0,2.0,1.0,8.4,8.0,0.1,0.0,0.4,9.0,c,1.0,5.0
+8000430138719.0,https://images.openfoodfacts.org/images/products/800/043/013/8719/front_de.85.400.jpg,Galbani,Cheese,989.0,1.0,0.7,13.0,17.0,0.0,0.0,0.28,10.0,c,0.0,5.0
+7622300318154.0,https://images.openfoodfacts.org/images/products/762/230/031/8154/front_de.23.400.jpg,Mondelez,Cheese,673.0,5.0,0.775,7.9,7.3,0.4,0.0,0.31,9.0,c,3.0,2.0
+3023260005100.0,https://images.openfoodfacts.org/images/products/302/326/000/5100/front_de.183.400.jpg,Salakis,Cheese,1126.0,0.8,2.8,16.0,16.0,0.0,0.0,1.12,18.0,d,8.0,1.0
+3451790988042.0,https://images.openfoodfacts.org/images/products/345/179/098/8042/front_fr.105.400.jpg,Elle & Vire,Milk and yogurt,1204.0,3.2,0.08,21.0,2.3,0.0,0.0,0.032,13.0,d,1.0,3.0
+4002671157751.0,https://images.openfoodfacts.org/images/products/400/267/115/7751/front_de.3.400.jpg,Gervais,Dairy desserts,392.0,1.6,0.85,2.6,12.3,0.0,0.0,0.34,1.0,b,6.0,2.0
+7622300508661.0,https://images.openfoodfacts.org/images/products/762/230/050/8661/front_de.29.400.jpg,"Philadelphia,Milka,Mondelez",Sweets,1202.0,33.0,0.51,8.4,6.2,1.7,0.0,0.204,16.0,d,0.0,5.0
+20133207.0,https://images.openfoodfacts.org/images/products/20133207/front_en.39.400.jpg,Alesto,Nuts,2533.0,5.6,1.3,6.3,26.5,8.6,98.7,0.52,4.0,c,11.0,15.0
+20005719.0,https://images.openfoodfacts.org/images/products/20005719/front_de.130.400.jpg,Alesto,Nuts,2507.0,5.6,1.78,6.3,26.5,7.6,98.2,0.712,6.0,c,0.0,0.0
+40198651.0,https://images.openfoodfacts.org/images/products/40198651/front_de.35.400.jpg,Kühne,Dressings and sauces,537.0,20.0,1.8,0.1,1.0,1.5,57.7564697265625,0.72,10.0,c,10.0,10.0
+20170196.0,https://images.openfoodfacts.org/images/products/20170196/front_de.66.400.jpg,"Vitasia, Improba B.V., Vitasia Inproba B.V.",Dressings and sauces,681.0,34.8,3.13,0.1,0.4,0.0,12.0,1.252,19.0,e,5.0,1.0
+8076809541091.0,https://images.openfoodfacts.org/images/products/807/680/954/1091/front_de.99.400.jpg,"Barilla, BARILLA Pesto, Italien",Dressings and sauces,1333.0,9.3,2.64,2.4,2.4,2.5,0.0,1.056,14.0,d,11.0,3.0
+8712100871986.0,https://images.openfoodfacts.org/images/products/871/210/087/1986/front_fr.136.400.jpg,Maille,Dressings and sauces,631.0,1.9,4.9,0.6,7.0,2.0,0.0,1.96,9.0,c,10.0,5.0
+8076809545396.0,https://images.openfoodfacts.org/images/products/807/680/954/5396/front_de.211.400.jpg,"Barilla, Cucina Nobile Hofer, Italien",Dressings and sauces,1830.0,4.6,3.0,5.0,4.2,1.4,18.7256868131868,1.2,19.0,e,6.0,4.0
+20757809.0,https://images.openfoodfacts.org/images/products/20757809/front_de.87.400.jpg,"Chef Select, My Best Veggie",Dressings and sauces,1129.0,2.2,1.63,1.9,6.7,5.2,71.5,0.652,4.0,c,11.0,2.0
+8410076470553.0,https://images.openfoodfacts.org/images/products/841/007/647/0553/front_fr.67.400.jpg,Old El Paso,Dressings and sauces,190.0,5.4,1.0,0.0,1.3,1.8,58.0,0.4,3.0,c,11.0,0.0
+8076809513722.0,https://images.openfoodfacts.org/images/products/807/680/951/3722/front_de.902.400.jpg,Barilla,Dressings and sauces,268.0,5.9,0.9,0.3,1.6,1.9,92.1666666666667,0.36,-2.0,a,5.0,7.0
+6194049100044.0,https://images.openfoodfacts.org/images/products/619/404/910/0044/front_de.134.400.jpg,Le Phare du Cap Bon,Dressings and sauces,302.0,6.9,1.7,0.5,2.9,2.5,7.8,0.68,5.0,c,11.0,2.0
+8718114734484.0,https://images.openfoodfacts.org/images/products/871/811/473/4484/front_en.117.400.jpg,Maille,Dressings and sauces,2778.0,1.0,1.1,5.9,1.6,0.5,59.8,0.44,16.0,d,2.0,5.0
+4061458024068.0,https://images.openfoodfacts.org/images/products/406/145/802/4068/front_de.65.400.jpg,Schätze des Orients,Dressings and sauces,1273.0,3.4,1.0,2.1,8.0,0.0,77.91015625,0.4,3.0,c,6.0,7.0
+8076809513692.0,https://images.openfoodfacts.org/images/products/807/680/951/3692/front_de.195.400.jpg,Barilla,Dressings and sauces,281.0,5.2,0.96,0.4,1.4,1.8,87.4,0.384,-1.0,a,5.0,8.0
+4061458284547.0,https://images.openfoodfacts.org/images/products/406/145/828/4547/front_de.3.400.jpg,Mein veggie Tag,Sandwiches,842.0,0.4,1.37,2.5,14.6,6.5,0.0,0.548,0.0,b,10.0,5.0
+4337185354212.0,https://images.openfoodfacts.org/images/products/433/718/535/4212/front_de.24.400.jpg,K-Classic,Sandwiches,1071.0,3.2,2.0,5.6,13.0,1.9,0.0,0.8,15.0,d,10.0,9.0
+4056489363316.0,https://images.openfoodfacts.org/images/products/405/648/936/3316/front_de.3.400.jpg,Lidl,Sandwiches,997.0,5.0,1.35,3.4,11.9,0.0,9.73214285714286,0.54,11.0,d,9.0,5.0
+4311501675328.0,https://images.openfoodfacts.org/images/products/431/150/167/5328/front_de.14.400.jpg,"Gut&Günstig,Edeka",Sandwiches,1295.0,3.0,1.5,4.3,13.1,3.5,0.0,0.6,10.0,c,5.0,5.0
+4337256103930.0,https://images.openfoodfacts.org/images/products/433/725/610/3930/front_de.3.400.jpg,"Ja!,",Bread,1042.0,3.6,1.0,0.4,8.4,3.8,0.0,0.4,-2.0,a,8.0,10.0
+5201673005315.0,https://images.openfoodfacts.org/images/products/520/167/300/5315/front_de.3.400.jpg,Καραμολεγκος,Bread,1214.0,4.0,0.55,0.3,9.5,2.5,0.0,0.22,-2.0,a,9.0,5.0
+7300400122702.0,https://images.openfoodfacts.org/images/products/730/040/012/2702/front_de.43.400.jpg,Wasa,Bread,1885.0,3.0,1.13,7.5,10.0,12.0,13.81,0.452,12.0,d,9.0,5.0
+4000446016807.0,https://images.openfoodfacts.org/images/products/400/044/601/6807/front_de.26.400.jpg,Mestemacher,Bread,1030.0,1.9,0.84,0.2,8.4,3.0,0.0,0.336,-2.0,a,8.0,10.0
+4061458236928.0,https://images.openfoodfacts.org/images/products/406/145/823/6928/front_de.25.400.jpg,"Goldähren,Sinnack Backspezialitäten,Aldi",Bread,1340.0,3.0,1.3,1.0,18.0,6.0,0.0,0.52,-2.0,a,7.0,5.0
+4000522064302.0,https://images.openfoodfacts.org/images/products/400/052/206/4302/front_de.121.400.jpg,"Pombär, Intersnack Deutschland SE",Appetizers,2142.0,1.3,1.5,2.5,3.0,1.6,0.0,0.6,13.0,d,10.0,5.0
+4003586000316.0,https://images.openfoodfacts.org/images/products/400/358/600/0316/front_de.107.400.jpg,funny-frisch Diverse,Appetizers,2209.0,2.5,1.6,3.0,6.1,4.2,0.0,0.64,11.0,d,9.0,10.0
+40896250.0,https://images.openfoodfacts.org/images/products/40896250/front_de.55.400.jpg,Fairglobe,Chocolate products,2361.0,51.5,0.23,21.5,7.2,0.1,0.0,0.092,28.0,e,3.0,8.0
+40144382.0,https://images.openfoodfacts.org/images/products/40144382/front_de.33.400.jpg,Storck,Biscuits and cakes,2284.0,34.6,0.56,18.5,9.2,0.0,9.2,0.224,25.0,e,11.0,5.0
+4058172508080.0,https://images.openfoodfacts.org/images/products/405/817/250/8080/front_de.32.400.jpg,"dmBio,dm,Alnatura",Legumes,531.0,0.6,0.51,1.3,13.0,1.8,0.0,0.204,-2.0,a,4.0,3.0
+4000405005002.0,https://images.openfoodfacts.org/images/products/400/040/500/5002/front_de.97.400.jpg,"Rügenwalder Mühle,Rügenwalder, Rügenwalder Mühle",Legumes,846.0,0.6,1.6,0.9,14.0,6.4,0.0,0.64,-1.0,a,8.0,10.0
+4056489442356.0,https://images.openfoodfacts.org/images/products/405/648/944/2356/front_de.13.400.jpg,Vemondo,Legumes,498.0,0.4,0.03,1.1,13.7,0.6,47.0,0.012,-3.0,a,8.0,10.0
+4012359144102.0,https://images.openfoodfacts.org/images/products/401/235/914/4102/front_de.85.400.jpg,Taifun,Legumes,1049.0,0.9,1.7,2.6,17.0,0.0,62.5439453125,0.68,12.0,d,11.0,0.0
+4260334164120.0,https://images.openfoodfacts.org/images/products/426/033/416/4120/front_de.3.400.jpg,youcook,One-dish meals,611.0,1.4,0.6,1.3,4.1,1.4,9.5,0.24,1.0,b,8.0,5.0
+4056489412373.0,https://images.openfoodfacts.org/images/products/405/648/941/2373/front_fr.4.400.jpg,Toque du Chef,One-dish meals,639.0,2.7,0.69,2.6,6.8,1.0,13.85,0.276,1.0,b,4.0,4.0
+3487400005151.0,https://images.openfoodfacts.org/images/products/348/740/000/5151/front_de.3.400.jpg,"Ben's Original, Mars",One-dish meals,711.0,2.5,0.56,0.3,3.9,1.4,8.4,0.224,1.0,b,1.0,1.0
+5010034514003.0,https://images.openfoodfacts.org/images/products/501/003/451/4003/front_en.82.400.jpg,Uncle Ben's,One-dish meals,612.0,0.5,0.01,0.1,2.7,0.7,0.0,0.004,0.0,b,3.0,2.0
+5010034517004.0,https://images.openfoodfacts.org/images/products/501/003/451/7004/front_fr.63.400.jpg,"Uncle Ben's,Mars",One-dish meals,699.0,0.5,0.01,0.5,4.1,1.3,0.0,0.004,-1.0,a,5.0,2.0
+1601225550005.0,https://images.openfoodfacts.org/images/products/160/122/555/0005/front_fr.4.400.jpg,Ikea,One-dish meals,660.0,2.1,1.1,4.0,8.1,0.0,0.0,0.44,3.0,c,6.0,3.0
+3083681139709.0,https://images.openfoodfacts.org/images/products/308/368/113/9709/front_de.25.400.jpg,Bonduelle,One-dish meals,512.0,2.1,0.77,0.4,4.6,3.8,0.0,0.308,-2.0,a,5.0,7.0
+4260322210761.0,https://images.openfoodfacts.org/images/products/426/032/221/0761/front_de.37.400.jpg,Greenforce,One-dish meals,1550.0,5.2,3.9,1.5,45.0,14.0,0.0,1.56,-2.0,a,2.0,5.0
+4012359144003.0,https://images.openfoodfacts.org/images/products/401/235/914/4003/front_fr.66.400.jpg,Taifun,One-dish meals,853.0,0.5,1.4,2.2,19.0,0.0,56.11328125,0.56,5.0,c,8.0,6.0
+4061458019187.0,https://images.openfoodfacts.org/images/products/406/145/801/9187/front_de.34.400.jpg,vegetarisch lecker!,Processed meat,821.0,3.8,2.2,1.7,8.6,2.8,0.0,0.88,10.0,c,5.0,11.0
+5000157062673.0,https://images.openfoodfacts.org/images/products/500/015/706/2673/front_en.41.400.jpg,Heinz,Soups,225.0,5.1,0.6,0.2,0.9,0.6,84.0,0.24,-2.0,a,5.0,3.0
+7616800705057.0,https://images.openfoodfacts.org/images/products/761/680/070/5057/front_fr.30.400.jpg,"Migros,M-Classic,Bischofszell",Cereals,415.0,3.2,1.0,0.9,3.7,14.0,64.25,0.4,-4.0,a,4.0,4.0
+7616800705101.0,https://images.openfoodfacts.org/images/products/761/680/070/5101/front_fr.35.400.jpg,"M-Classic, Migros, MClassic",Cereals,420.0,3.3,1.1,0.8,3.5,0.7,66.21875,0.44,1.0,b,5.0,1.0
+4058172508080.0,https://images.openfoodfacts.org/images/products/405/817/250/8080/front_de.32.400.jpg,"dmBio,dm,Alnatura",Legumes,531.0,0.6,0.51,1.3,13.0,1.8,0.0,0.204,-2.0,a,4.0,3.0
+3229820787985.0,https://images.openfoodfacts.org/images/products/322/982/078/7985/front_fr.85.400.jpg,Bjorg,Unsweetened beverages,760.0,1.6,0.08,15.0,1.2,1.1,55.0,0.032,19.0,e,0.0,0.0
+4260380661246.0,https://images.openfoodfacts.org/images/products/426/038/066/1246/front_de.98.400.jpg,Like Meat,unknown,510.0,0.6,0.6,0.3,18.0,7.1,0.0,0.24,-7.0,a,10.0,6.0
+4056489223252.0,https://images.openfoodfacts.org/images/products/405/648/922/3252/front_de.33.400.jpg,"Vemondo,Lidl",unknown,969.0,6.0,1.55,1.1,4.5,2.8,0.3,0.62,6.0,c,9.0,4.0
+4061458236928.0,https://images.openfoodfacts.org/images/products/406/145/823/6928/front_de.25.400.jpg,"Goldähren,Sinnack Backspezialitäten,Aldi",Bread,1340.0,3.0,1.3,1.0,18.0,6.0,0.0,0.52,-2.0,a,7.0,5.0
+5411188115472.0,https://images.openfoodfacts.org/images/products/541/118/811/5472/front_de.178.400.jpg,Alpro,Plant-based milk substitutes,163.0,2.5,0.09,0.3,3.0,0.5,24.2,0.036,-1.0,a,0.0,1.0
+7394376616129.0,https://images.openfoodfacts.org/images/products/739/437/661/6129/front_de.68.400.jpg,Oatly,Plant-based milk substitutes,193.0,4.0,0.1,0.2,1.0,0.8,11.4583333333333,0.04,0.0,b,0.0,0.0
+5411188120742.0,https://images.openfoodfacts.org/images/products/541/118/812/0742/front_de.70.400.jpg,Alpro,Plant-based milk substitutes,126.0,3.8,0.14,0.1,0.4,1.3,3.45,0.056,-1.0,a,0.0,1.0
+20330750.0,https://images.openfoodfacts.org/images/products/20330750/front_de.85.400.jpg,"Vemondo,Lidl",unknown,681.0,4.0,1.5,0.7,18.8,7.7,6.33703882553998,0.6,-2.0,a,7.0,9.0
+5411188135005.0,https://images.openfoodfacts.org/images/products/541/118/813/5005/front_de.74.400.jpg,Alpro,Plant-based milk substitutes,182.0,0.0,0.12,0.2,0.7,1.0,4.35,0.048,-1.0,a,1.0,0.0
+4000405004470.0,https://images.openfoodfacts.org/images/products/400/040/500/4470/front_de.36.400.jpg,Rügenwalder,unknown,590.0,1.4,2.3,1.0,2.2,6.3,4.4,0.92,6.0,c,11.0,0.0
+4000405002704.0,https://images.openfoodfacts.org/images/products/400/040/500/2704/front_de.31.400.jpg,Rügenwalder Mühle,Salty and fatty products,923.0,4.1,1.6,1.7,0.6,3.3,38.61875,0.64,7.0,c,11.0,0.0
+4000339035229.0,https://images.openfoodfacts.org/images/products/400/033/903/5229/front_en.52.400.jpg,"Mondelez,Philadelphia",Salty and fatty products,964.0,4.3,0.75,14.0,5.4,0.2,0.0,0.3,12.0,d,7.0,6.0
+3451790988042.0,https://images.openfoodfacts.org/images/products/345/179/098/8042/front_fr.105.400.jpg,Elle & Vire,Milk and yogurt,1204.0,3.2,0.08,21.0,2.3,0.0,0.0,0.032,13.0,d,1.0,3.0
+4104420186279.0,https://images.openfoodfacts.org/images/products/410/442/018/6279/front_de.73.400.jpg,Alnatura,Plant-based milk substitutes,164.0,5.2,0.13,0.2,0.6,0.5,0.0,0.052,1.0,b,0.0,0.0
+7290010739820.0,https://images.openfoodfacts.org/images/products/729/001/073/9820/front_de.48.400.jpg,"Garden Gourmet,Nestlé",unknown,937.0,2.8,1.4,1.7,14.0,5.3,42.325,0.56,-2.0,a,3.0,10.0
+4260380661284.0,https://images.openfoodfacts.org/images/products/426/038/066/1284/front_de.39.400.jpg,Like Meat,unknown,960.0,0.0,1.4,1.6,11.0,5.9,0.0,0.56,-1.0,a,11.0,0.0
+20195595.0,https://images.openfoodfacts.org/images/products/20195595/front_de.150.400.jpg,Milbona,Cheese,614.0,2.0,1.0,8.4,8.0,0.1,0.0,0.4,9.0,c,1.0,5.0
+8076809545396.0,https://images.openfoodfacts.org/images/products/807/680/954/5396/front_de.211.400.jpg,"Barilla, Cucina Nobile Hofer, Italien",Dressings and sauces,1830.0,4.6,3.0,5.0,4.2,1.4,18.7256868131868,1.2,19.0,e,6.0,4.0
+20330743.0,https://images.openfoodfacts.org/images/products/20330743/front_de.40.400.jpg,vemondo,unknown,674.0,1.3,1.54,0.5,19.0,4.8,15.5,0.616,-2.0,a,2.0,5.0
+4061458019187.0,https://images.openfoodfacts.org/images/products/406/145/801/9187/front_de.34.400.jpg,vegetarisch lecker!,Processed meat,821.0,3.8,2.2,1.7,8.6,2.8,0.0,0.88,10.0,c,5.0,11.0
+5449000214799.0,https://images.openfoodfacts.org/images/products/544/900/021/4799/front_fr.219.400.jpg,Coca-Cola,Artificially sweetened beverages,1.4,0.0,0.02,0.0,0.0,0.0,0.0,0.008,1.0,b,1.0,0.0
+20749880.0,https://images.openfoodfacts.org/images/products/20749880/front_de.122.400.jpg,"Vemondo,Lidl,Sojinal",Plant-based milk substitutes,182.0,2.9,0.16,0.3,3.3,0.8,4.9,0.064,-2.0,a,1.0,3.0
+5411188112709.0,https://images.openfoodfacts.org/images/products/541/118/811/2709/front_de.425.400.jpg,Alpro,Plant-based milk substitutes,56.0,0.0,0.14,0.1,0.4,0.3,2.3,0.056,0.0,b,0.0,0.0
+4003586000316.0,https://images.openfoodfacts.org/images/products/400/358/600/0316/front_de.107.400.jpg,funny-frisch Diverse,Appetizers,2209.0,2.5,1.6,3.0,6.1,4.2,0.0,0.64,11.0,d,9.0,10.0
+8076809513722.0,https://images.openfoodfacts.org/images/products/807/680/951/3722/front_de.902.400.jpg,Barilla,Dressings and sauces,268.0,5.9,0.9,0.3,1.6,1.9,92.1666666666667,0.36,-2.0,a,5.0,7.0
+90357473.0,https://images.openfoodfacts.org/images/products/90357473/front_fr.85.400.jpg,Coca-Cola,Artificially sweetened beverages,1.4,0.0,0.02,0.0,0.0,0.0,0.0,0.008,1.0,b,1.0,9.0
+8076809513692.0,https://images.openfoodfacts.org/images/products/807/680/951/3692/front_de.195.400.jpg,Barilla,Dressings and sauces,281.0,5.2,0.96,0.4,1.4,1.8,87.4,0.384,-1.0,a,5.0,8.0
+7610100031403.0,https://images.openfoodfacts.org/images/products/761/010/003/1403/front_de.97.400.jpg,"Thomy,Nestlé",Dressings and sauces,425.0,1.7,3.6,0.4,6.3,2.9,0.0,1.44,8.0,c,1.0,6.0
+8710912064725.0,https://images.openfoodfacts.org/images/products/871/091/206/4725/front_de.64.400.jpg,Valess,unknown,912.0,0.8,1.3,2.6,14.3,3.5,0.0,0.52,1.0,b,1.0,5.0
+4337256103930.0,https://images.openfoodfacts.org/images/products/433/725/610/3930/front_de.3.400.jpg,"Ja!,",Bread,1042.0,3.6,1.0,0.4,8.4,3.8,0.0,0.4,-2.0,a,8.0,10.0
+5411188115366.0,https://images.openfoodfacts.org/images/products/541/118/811/5366/front_de.88.400.jpg,Alpro,Plant-based milk substitutes,185.0,2.6,0.1,0.2,0.4,1.9,0.0,0.04,-1.0,a,0.0,1.0
+20757809.0,https://images.openfoodfacts.org/images/products/20757809/front_de.87.400.jpg,"Chef Select, My Best Veggie",Dressings and sauces,1129.0,2.2,1.63,1.9,6.7,5.2,71.5,0.652,4.0,c,11.0,2.0
+3036810201280.0,https://images.openfoodfacts.org/images/products/303/681/020/1280/front_de.189.400.jpg,"Maille, Senf",Dressings and sauces,620.0,2.0,5.7,0.6,7.0,3.0,0.0,2.28,8.0,c,10.0,0.0
+20133207.0,https://images.openfoodfacts.org/images/products/20133207/front_en.39.400.jpg,Alesto,Nuts,2533.0,5.6,1.3,6.3,26.5,8.6,98.7,0.52,4.0,c,11.0,15.0
+4000405002100.0,https://images.openfoodfacts.org/images/products/400/040/500/2100/front_de.98.400.jpg,Rügenwalder Mühle,unknown,1080.0,0.6,1.6,1.9,4.5,3.7,3.0,0.64,8.0,c,10.0,5.0
+40198651.0,https://images.openfoodfacts.org/images/products/40198651/front_de.35.400.jpg,Kühne,Dressings and sauces,537.0,20.0,1.8,0.1,1.0,1.5,57.7564697265625,0.72,10.0,c,10.0,10.0
+8718114734484.0,https://images.openfoodfacts.org/images/products/871/811/473/4484/front_en.117.400.jpg,Maille,Dressings and sauces,2778.0,1.0,1.1,5.9,1.6,0.5,59.8,0.44,16.0,d,2.0,5.0
+4000446016807.0,https://images.openfoodfacts.org/images/products/400/044/601/6807/front_de.26.400.jpg,Mestemacher,Bread,1030.0,1.9,0.84,0.2,8.4,3.0,0.0,0.336,-2.0,a,8.0,10.0
+4000405001523.0,https://images.openfoodfacts.org/images/products/400/040/500/1523/front_de.55.400.jpg,"Rügenwalder Mühle, Mühlenbauer",unknown,699.0,0.8,1.8,1.0,7.1,3.2,28.5,0.72,2.0,b,11.0,0.0
+1230000068017.0,https://images.openfoodfacts.org/images/products/123/000/006/8017/front_de.49.400.jpg,Beyond Meat,unknown,1047.0,0.0,0.75,5.6,17.0,1.3,8.01953125,0.3,10.0,c,7.0,5.0
+4000405004968.0,https://images.openfoodfacts.org/images/products/400/040/500/4968/front_de.44.400.jpg,Rügenwalder Mühle,unknown,476.0,1.5,2.2,0.7,2.2,7.9,0.0,0.88,4.0,c,9.0,9.0
+20005719.0,https://images.openfoodfacts.org/images/products/20005719/front_de.130.400.jpg,Alesto,Nuts,2507.0,5.6,1.78,6.3,26.5,7.6,98.2,0.712,6.0,c,0.0,0.0
+4337185354212.0,https://images.openfoodfacts.org/images/products/433/718/535/4212/front_de.24.400.jpg,K-Classic,Sandwiches,1071.0,3.2,2.0,5.6,13.0,1.9,0.0,0.8,15.0,d,10.0,9.0
+4000405005002.0,https://images.openfoodfacts.org/images/products/400/040/500/5002/front_de.97.400.jpg,"Rügenwalder Mühle,Rügenwalder, Rügenwalder Mühle",Legumes,846.0,0.6,1.6,0.9,14.0,6.4,0.0,0.64,-1.0,a,8.0,10.0
+20019907.0,https://images.openfoodfacts.org/images/products/20019907/front_de.173.400.jpg,Solevita,Fruit juices,117.0,2.2,0.01,0.1,0.4,0.5,99.88,0.004,-4.0,b,6.0,10.0
+5010034514003.0,https://images.openfoodfacts.org/images/products/501/003/451/4003/front_en.82.400.jpg,Uncle Ben's,One-dish meals,612.0,0.5,0.01,0.1,2.7,0.7,0.0,0.004,0.0,b,3.0,2.0
+7622300318154.0,https://images.openfoodfacts.org/images/products/762/230/031/8154/front_de.23.400.jpg,Mondelez,Cheese,673.0,5.0,0.775,7.9,7.3,0.4,0.0,0.31,9.0,c,3.0,2.0
+40198668.0,https://images.openfoodfacts.org/images/products/40198668/front_de.63.400.jpg,Kühne,Dressings and sauces,1218.0,13.0,2.2,2.0,1.1,1.5,66.9823214285714,0.88,12.0,d,3.0,5.0
+4000405004593.0,https://images.openfoodfacts.org/images/products/400/040/500/4593/front_de.115.400.jpg,Rügenwalder Mühle,unknown,492.0,2.2,2.3,0.4,2.2,7.3,12.0,0.92,6.0,c,8.0,10.0
+3272770015653.0,https://images.openfoodfacts.org/images/products/327/277/001/5653/front_de.33.400.jpg,Bresso,Salty and fatty products,939.0,1.1,1.1,1.7,4.6,4.0,16.0,0.44,1.0,b,6.0,1.0
+5411188115458.0,https://images.openfoodfacts.org/images/products/541/118/811/5458/front_de.187.400.jpg,"Alpro, Danone",Plant-based milk substitutes,257.0,7.6,0.14,0.4,3.1,0.9,64.875,0.056,-2.0,a,1.0,0.0
+4000405005217.0,https://images.openfoodfacts.org/images/products/400/040/500/5217/front_de.74.400.jpg,Rügenwalder Mühle,unknown,422.0,0.5,1.6,0.1,18.0,5.7,5.25,0.64,-2.0,a,10.0,5.0
+90162800.0,https://images.openfoodfacts.org/images/products/90162800/front_de.51.400.jpg,Red Bull,Artificially sweetened beverages,13.0,0.0,0.1,0.0,0.0,0.0,0.0,0.04,1.0,b,9.0,0.0
+4000405005415.0,https://images.openfoodfacts.org/images/products/400/040/500/5415/front_de.50.400.jpg,Rügenwalder Mühle,unknown,556.0,1.5,2.7,0.7,6.4,3.2,6.0,1.08,8.0,c,10.0,6.0
+40896250.0,https://images.openfoodfacts.org/images/products/40896250/front_de.55.400.jpg,Fairglobe,Chocolate products,2361.0,51.5,0.23,21.5,7.2,0.1,0.0,0.092,28.0,e,3.0,8.0
+4056489442356.0,https://images.openfoodfacts.org/images/products/405/648/944/2356/front_de.13.400.jpg,Vemondo,Legumes,498.0,0.4,0.03,1.1,13.7,0.6,47.0,0.012,-3.0,a,8.0,10.0
+4260322210761.0,https://images.openfoodfacts.org/images/products/426/032/221/0761/front_de.37.400.jpg,Greenforce,One-dish meals,1550.0,5.2,3.9,1.5,45.0,14.0,0.0,1.56,-2.0,a,2.0,5.0
+20082857.0,https://images.openfoodfacts.org/images/products/20082857/front_de.64.400.jpg,Milbona,Salty and fatty products,1033.0,2.7,0.78,16.1,7.4,0.0,0.0,0.312,12.0,d,0.0,5.0
+3700278400881.0,https://images.openfoodfacts.org/images/products/370/027/840/0881/front_fr.74.400.jpg,Banania,unknown,1577.0,69.0,0.05,1.4,5.6,6.7,0.25,0.02,1.0,b,3.0,2.0
+7613036920278.0,https://images.openfoodfacts.org/images/products/761/303/692/0278/front_de.33.400.jpg,"Garden Gourmet,Nestlé",unknown,817.0,1.0,0.9,3.9,14.0,5.9,13.2725941051136,0.36,-2.0,a,8.0,8.0
+40144382.0,https://images.openfoodfacts.org/images/products/40144382/front_de.33.400.jpg,Storck,Biscuits and cakes,2284.0,34.6,0.56,18.5,9.2,0.0,9.2,0.224,25.0,e,11.0,5.0
+4029764001807.0,https://images.openfoodfacts.org/images/products/402/976/400/1807/front_de.171.400.jpg,Club Mate,Sweetened beverages,84.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,d,1.0,0.0
+4000405004999.0,https://images.openfoodfacts.org/images/products/400/040/500/4999/front_de.10.400.jpg,Rügenwalder Mühle,unknown,487.0,1.5,2.3,0.7,2.2,8.0,23.0769230769231,0.92,6.0,c,11.0,0.0
+7622300441937.0,https://images.openfoodfacts.org/images/products/762/230/044/1937/front_en.130.400.jpg,Kraft,Salty and fatty products,1027.0,1.3,0.75,14.0,5.4,0.2,0.0,0.3,13.0,d,3.0,5.0
+7616800705101.0,https://images.openfoodfacts.org/images/products/761/680/070/5101/front_fr.35.400.jpg,"M-Classic, Migros, MClassic",Cereals,420.0,3.3,1.1,0.8,3.5,0.7,66.21875,0.44,1.0,b,5.0,1.0
+4260334164120.0,https://images.openfoodfacts.org/images/products/426/033/416/4120/front_de.3.400.jpg,youcook,One-dish meals,611.0,1.4,0.6,1.3,4.1,1.4,9.5,0.24,1.0,b,8.0,5.0
+4056489363316.0,https://images.openfoodfacts.org/images/products/405/648/936/3316/front_de.3.400.jpg,Lidl,Sandwiches,997.0,5.0,1.35,3.4,11.9,0.0,9.73214285714286,0.54,11.0,d,9.0,5.0
+4311501675328.0,https://images.openfoodfacts.org/images/products/431/150/167/5328/front_de.14.400.jpg,"Gut&Günstig,Edeka",Sandwiches,1295.0,3.0,1.5,4.3,13.1,3.5,0.0,0.6,10.0,c,5.0,5.0
+4012359144003.0,https://images.openfoodfacts.org/images/products/401/235/914/4003/front_fr.66.400.jpg,Taifun,One-dish meals,853.0,0.5,1.4,2.2,19.0,0.0,56.11328125,0.56,5.0,c,8.0,6.0
+4056489346357.0,https://images.openfoodfacts.org/images/products/405/648/934/6357/front_de.154.400.jpg,"Milbona,Vemondo,Lidl,envia",Plant-based milk substitutes,53.0,0.0,0.15,0.1,0.5,0.0,2.3,0.06,0.0,b,0.0,0.0
+4061458024068.0,https://images.openfoodfacts.org/images/products/406/145/802/4068/front_de.65.400.jpg,Schätze des Orients,Dressings and sauces,1273.0,3.4,1.0,2.1,8.0,0.0,77.91015625,0.4,3.0,c,6.0,7.0
+7610227935219.0,https://images.openfoodfacts.org/images/products/761/022/793/5219/front_de.29.400.jpg,The Green Mountain,unknown,608.0,0.5,1.6,0.6,11.0,2.0,0.0,0.64,1.0,b,6.0,9.0
+1601225550005.0,https://images.openfoodfacts.org/images/products/160/122/555/0005/front_fr.4.400.jpg,Ikea,One-dish meals,660.0,2.1,1.1,4.0,8.1,0.0,0.0,0.44,3.0,c,6.0,3.0
+4056489028109.0,https://images.openfoodfacts.org/images/products/405/648/902/8109/front_de.170.400.jpg,solevita,Fruit juices,142.0,7.6,0.01,0.1,0.5,0.0,75.0,0.004,7.0,d,11.0,4.0
+5010034517004.0,https://images.openfoodfacts.org/images/products/501/003/451/7004/front_fr.63.400.jpg,"Uncle Ben's,Mars",One-dish meals,699.0,0.5,0.01,0.5,4.1,1.3,0.0,0.004,-1.0,a,5.0,2.0
+3033710065967.0,https://images.openfoodfacts.org/images/products/303/371/006/5967/front_de.322.400.jpg,"Nestlé,Nesquik",unknown,1634.0,75.1,0.41,1.6,5.1,7.7,0.0,0.164,1.0,b,3.0,2.0
+4061458284547.0,https://images.openfoodfacts.org/images/products/406/145/828/4547/front_de.3.400.jpg,Mein veggie Tag,Sandwiches,842.0,0.4,1.37,2.5,14.6,6.5,0.0,0.548,0.0,b,10.0,5.0
+8076809523547.0,https://images.openfoodfacts.org/images/products/807/680/952/3547/front_de.308.400.jpg,"Barilla, pesto",Dressings and sauces,1360.0,7.8,2.8,3.4,3.8,2.3,52.9625,1.12,15.0,d,5.0,1.0
+5449000133328.0,https://images.openfoodfacts.org/images/products/544/900/013/3328/front_en.226.400.jpg,Coca-Cola,Artificially sweetened beverages,0.9,0.0,0.02,0.0,0.0,0.0,0.0,0.008,1.0,b,1.0,0.0
+5411188116592.0,https://images.openfoodfacts.org/images/products/541/118/811/6592/front_de.184.400.jpg,Alpro,Plant-based milk substitutes,85.0,1.9,0.13,0.9,0.1,0.1,5.3,0.052,0.0,b,0.0,0.0
+4066447051360.0,https://images.openfoodfacts.org/images/products/406/644/705/1360/front_de.34.400.jpg,dmBio,Plant-based milk substitutes,168.0,5.2,0.13,0.2,0.6,0.5,0.0,0.052,1.0,b,1.0,0.0
+5000157062673.0,https://images.openfoodfacts.org/images/products/500/015/706/2673/front_en.41.400.jpg,Heinz,Soups,225.0,5.1,0.6,0.2,0.9,0.6,84.0,0.24,-2.0,a,5.0,3.0
+7300400122702.0,https://images.openfoodfacts.org/images/products/730/040/012/2702/front_de.43.400.jpg,Wasa,Bread,1885.0,3.0,1.13,7.5,10.0,12.0,13.81,0.452,12.0,d,9.0,5.0
+4025500163082.0,https://images.openfoodfacts.org/images/products/402/550/016/3082/front_de.46.400.jpg,"Müller, Müller",unknown,162.0,4.2,0.12,0.4,3.4,0.0,0.0,0.048,-2.0,a,0.0,5.0
+4000405001752.0,https://images.openfoodfacts.org/images/products/400/040/500/1752/front_de.34.400.jpg,Rügenwalder Mühle,unknown,726.0,0.6,1.9,1.0,8.2,3.8,34.8214285714286,0.76,1.0,b,8.0,5.0
+4000405001431.0,https://images.openfoodfacts.org/images/products/400/040/500/1431/front_de.29.400.jpg,Rügenwalder Mühle,unknown,860.0,1.5,1.8,0.8,14.0,3.9,34.6153846153846,0.72,0.0,b,9.0,7.0
+4260380660294.0,https://images.openfoodfacts.org/images/products/426/038/066/0294/front_de.48.400.jpg,Like Meat,unknown,480.0,0.8,2.1,0.3,18.0,6.9,0.0,0.84,0.0,b,11.0,0.0
+5411188128311.0,https://images.openfoodfacts.org/images/products/541/118/812/8311/front_de.27.400.jpg,Alpro,Plant-based milk substitutes,56.0,0.0,0.07,1.1,0.1,0.0,9.6,0.028,1.0,b,1.0,0.0
+3023260005100.0,https://images.openfoodfacts.org/images/products/302/326/000/5100/front_de.183.400.jpg,Salakis,Cheese,1126.0,0.8,2.8,16.0,16.0,0.0,0.0,1.12,18.0,d,8.0,1.0
+5411188134985.0,https://images.openfoodfacts.org/images/products/541/118/813/4985/front_de.96.400.jpg,Alpro,Plant-based milk substitutes,248.0,0.0,0.12,0.4,0.7,1.0,12.5,0.048,-1.0,a,0.0,1.0
+4056489412373.0,https://images.openfoodfacts.org/images/products/405/648/941/2373/front_fr.4.400.jpg,Toque du Chef,One-dish meals,639.0,2.7,0.69,2.6,6.8,1.0,13.85,0.276,1.0,b,4.0,4.0
+8715700407760.0,https://images.openfoodfacts.org/images/products/871/570/040/7760/front_de.75.400.jpg,Heinz,Dressings and sauces,476.0,24.8,1.7,0.1,1.4,0.0,72.65,0.68,11.0,d,0.0,0.0
+4000405004548.0,https://images.openfoodfacts.org/images/products/400/040/500/4548/front_de.60.400.jpg,Rügenwälder Mühle,unknown,748.0,1.5,2.4,1.2,8.2,3.0,0.0,0.96,10.0,c,9.0,10.0
+3274080005003.0,https://images.openfoodfacts.org/images/products/327/408/000/5003/front_de.871.400.jpg,Cristaline,Waters and flavored waters,0.0,0.0,0.00525,0.0,0.0,0.0,0.0,0.0021,0.0,a,0.0,0.0
+20170196.0,https://images.openfoodfacts.org/images/products/20170196/front_de.66.400.jpg,"Vitasia, Improba B.V., Vitasia Inproba B.V.",Dressings and sauces,681.0,34.8,3.13,0.1,0.4,0.0,12.0,1.252,19.0,e,5.0,1.0
+4056489244691.0,https://images.openfoodfacts.org/images/products/405/648/924/4691/front_de.95.400.jpg,"Vemondo, Lidl, Grønvang Food",Plant-based milk substitutes,158.0,4.0,0.12,0.2,0.4,0.6,0.0,0.048,0.0,b,0.0,0.0
+4002671157751.0,https://images.openfoodfacts.org/images/products/400/267/115/7751/front_de.3.400.jpg,Gervais,Dairy desserts,392.0,1.6,0.85,2.6,12.3,0.0,0.0,0.34,1.0,b,6.0,2.0
+7616800705057.0,https://images.openfoodfacts.org/images/products/761/680/070/5057/front_fr.30.400.jpg,"Migros,M-Classic,Bischofszell",Cereals,415.0,3.2,1.0,0.9,3.7,14.0,64.25,0.4,-4.0,a,4.0,4.0
+4260380661260.0,https://images.openfoodfacts.org/images/products/426/038/066/1260/front_de.63.400.jpg,Like Meat,unknown,544.0,0.5,1.6,0.5,18.0,6.2,0.0,0.64,-2.0,a,8.0,7.0
+7394376616501.0,https://images.openfoodfacts.org/images/products/739/437/661/6501/front_de.160.400.jpg,Oatly!,Plant-based milk substitutes,257.0,3.4,0.1,0.3,1.1,0.8,5.0,0.04,0.0,b,0.0,0.0
+4012359144102.0,https://images.openfoodfacts.org/images/products/401/235/914/4102/front_de.85.400.jpg,Taifun,Legumes,1049.0,0.9,1.7,2.6,17.0,0.0,62.5439453125,0.68,12.0,d,11.0,0.0
+3502110009357.0,https://images.openfoodfacts.org/images/products/350/211/000/9357/front_en.101.400.jpg,"PepsiCo, Pepsi zero",Artificially sweetened beverages,2.0,0.0,0.01,0.0,0.0,0.0,0.0,0.004,1.0,b,1.0,0.0
+8000430138719.0,https://images.openfoodfacts.org/images/products/800/043/013/8719/front_de.85.400.jpg,Galbani,Cheese,989.0,1.0,0.7,13.0,17.0,0.0,0.0,0.28,10.0,c,0.0,5.0
+3083681139709.0,https://images.openfoodfacts.org/images/products/308/368/113/9709/front_de.25.400.jpg,Bonduelle,One-dish meals,512.0,2.1,0.77,0.4,4.6,3.8,0.0,0.308,-2.0,a,5.0,7.0
+8076809541091.0,https://images.openfoodfacts.org/images/products/807/680/954/1091/front_de.99.400.jpg,"Barilla, BARILLA Pesto, Italien",Dressings and sauces,1333.0,9.3,2.64,2.4,2.4,2.5,0.0,1.056,14.0,d,11.0,3.0
+4000405004982.0,https://images.openfoodfacts.org/images/products/400/040/500/4982/front_de.36.400.jpg,Rügenwalder Mühle,unknown,460.0,2.0,2.2,0.7,2.2,6.7,0.0,0.88,4.0,c,11.0,0.0
+4000522064302.0,https://images.openfoodfacts.org/images/products/400/052/206/4302/front_de.121.400.jpg,"Pombär, Intersnack Deutschland SE",Appetizers,2142.0,1.3,1.5,2.5,3.0,1.6,0.0,0.6,13.0,d,10.0,5.0
+8712100871986.0,https://images.openfoodfacts.org/images/products/871/210/087/1986/front_fr.136.400.jpg,Maille,Dressings and sauces,631.0,1.9,4.9,0.6,7.0,2.0,0.0,1.96,9.0,c,10.0,5.0
+8410076470553.0,https://images.openfoodfacts.org/images/products/841/007/647/0553/front_fr.67.400.jpg,Old El Paso,Dressings and sauces,190.0,5.4,1.0,0.0,1.3,1.8,58.0,0.4,3.0,c,11.0,0.0
+5411188124689.0,https://images.openfoodfacts.org/images/products/541/118/812/4689/front_de.203.400.jpg,Alpro,Plant-based milk substitutes,169.0,0.0,0.09,0.2,0.2,1.2,4.35,0.036,-1.0,a,0.0,1.0
+4311596638093.0,https://images.openfoodfacts.org/images/products/431/159/663/8093/front_de.36.400.jpg,vehappy,unknown,553.0,2.3,1.3,0.7,7.6,5.8,0.0,0.52,-3.0,a,11.0,0.0
+5411188102809.0,https://images.openfoodfacts.org/images/products/541/118/810/2809/front_de.182.400.jpg,Alpro,Plant-based milk substitutes,293.0,7.9,0.15,0.4,3.7,1.0,61.475,0.06,-4.0,a,1.0,5.0
+4250241208642.0,https://images.openfoodfacts.org/images/products/425/024/120/8642/front_de.29.400.jpg,Iglo,unknown,1073.0,1.7,0.91,1.0,7.9,2.0,11.45,0.364,1.0,b,6.0,5.0
+8718692788138.0,https://images.openfoodfacts.org/images/products/871/869/278/8138/front_de.18.400.jpg,The Vegetarian Butcher,unknown,1250.0,0.5,1.4,4.2,14.0,3.5,0.0,0.56,10.0,c,4.0,6.0
+3487400005151.0,https://images.openfoodfacts.org/images/products/348/740/000/5151/front_de.3.400.jpg,"Ben's Original, Mars",One-dish meals,711.0,2.5,0.56,0.3,3.9,1.4,8.4,0.224,1.0,b,1.0,1.0
+6194049100044.0,https://images.openfoodfacts.org/images/products/619/404/910/0044/front_de.134.400.jpg,Le Phare du Cap Bon,Dressings and sauces,302.0,6.9,1.7,0.5,2.9,2.5,7.8,0.68,5.0,c,11.0,2.0
+5000112576009.0,https://images.openfoodfacts.org/images/products/500/011/257/6009/front_de.30.400.jpg,Coca-Cola,Artificially sweetened beverages,0.9,0.0,0.2,0.0,0.0,0.0,0.0,0.08,1.0,b,1.0,0.0
+4260322211362.0,https://images.openfoodfacts.org/images/products/426/032/221/1362/front_de.17.400.jpg,Greenforce,unknown,972.0,1.5,2.2,4.0,13.0,6.0,30.1470588235294,0.88,9.0,c,10.0,9.0
+5449000052926.0,https://images.openfoodfacts.org/images/products/544/900/005/2926/front_fr.97.400.jpg,Fanta,Artificially sweetened beverages,203.0,11.7,0.0,0.0,0.0,0.0,0.0,0.0,15.0,e,4.0,0.0
+5201673005315.0,https://images.openfoodfacts.org/images/products/520/167/300/5315/front_de.3.400.jpg,Καραμολεγκος,Bread,1214.0,4.0,0.55,0.3,9.5,2.5,0.0,0.22,-2.0,a,9.0,5.0
+4000405001288.0,https://images.openfoodfacts.org/images/products/400/040/500/1288/front_de.60.400.jpg,Rügenwalder Mühle,unknown,1009.0,1.8,2.0,1.3,13.0,4.2,11.0,0.8,8.0,c,11.0,3.0
+4056489041313.0,https://images.openfoodfacts.org/images/products/405/648/904/1313/front_de.127.400.jpg,"Vemondo,Milbona",Plant-based milk substitutes,101.0,2.7,0.1,0.1,0.5,0.0,2.3,0.04,0.0,b,1.0,0.0
+7622300508661.0,https://images.openfoodfacts.org/images/products/762/230/050/8661/front_de.29.400.jpg,"Philadelphia,Milka,Mondelez",Sweets,1202.0,33.0,0.51,8.4,6.2,1.7,0.0,0.204,16.0,d,0.0,5.0
